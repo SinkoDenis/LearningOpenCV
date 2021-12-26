@@ -1,3 +1,3 @@
 # LearningOpenCV
- OpenCV tutorial.</n>
+ OpenCV tutorial.
  This repository contains tutorial programs for OpenCV
